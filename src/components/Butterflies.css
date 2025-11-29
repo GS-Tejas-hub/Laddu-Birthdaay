@@ -1,0 +1,106 @@
+.butterfly-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 300vh;
+  pointer-events: none;
+  /* Allows clicking through, but butterflies have pointer-events: auto */
+  z-index: 9999;
+  overflow: hidden;
+  /* Prevent scrollbars from butterflies flying out */
+}
+
+.butterfly {
+  position: absolute;
+  width: 100px;
+}
+
+/* Wrapper for static/interactive butterflies to position them */
+.static-wrapper {
+  position: absolute;
+}
+
+
+.b1-1 {
+  bottom: 10%;
+  left: 3%;
+  transform: scale(0.8);
+}
+
+.b1-2 {
+  top: 30%;
+  left: 80%;
+  transform: scale(1);
+}
+
+.b1-3 {
+  top: 40%;
+  left: 30%;
+  transform: scale(0.9);
+}
+
+.b1-4 {
+  top: 10%;
+  left: 10%;
+  transform: scale(0.7);
+}
+
+.b1-5 {
+  bottom: 20%;
+  right: 10%;
+  transform: scale(0.8);
+}
+
+.b2-1 {
+  top: 15%;
+  right: 29%;
+  transform: scale(1.1);
+}
+
+.b2-2 {
+  top: 40%;
+  right: 25%;
+  transform: scale(0.9);
+}
+
+.b2-3 {
+  top: 50%;
+  right: 88%;
+  transform: scale(1);
+}
+
+.b2-4 {
+  top: 60%;
+  left: 50%;
+  transform: scale(1.2);
+}
+
+.b3-1 {
+  bottom: 30%;
+  left: 13%;
+  transform: scale(0.8);
+}
+
+.b3-2 {
+  bottom: 50%;
+  right: 50%;
+  transform: scale(1);
+}
+
+.b3-3 {
+  bottom: 85%;
+  left: 90%;
+  transform: scale(1.1);
+}
+
+.b3-4 {
+  top: 5%;
+  right: 40%;
+  transform: scale(0.6);
+}
+
+.scroll-butterfly {
+  position: absolute;
+  top: 20%;
+}

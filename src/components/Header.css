@@ -7,6 +7,7 @@
     backdrop-filter: blur(10px);
     z-index: 1000;
     padding: 1rem 2rem;
+    box-sizing: border-box;
 }
 
 .header-content {
@@ -48,15 +49,24 @@
 
 @media (max-width: 768px) {
     .header {
-        padding: 0.8rem 1rem;
+        padding: 0.6rem 0.8rem;
+    }
+
+    .header-content {
+        gap: 0.5rem;
     }
 
     .header-title {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
     }
 
     .gallery-button {
-        padding: 0.6rem 1.2rem;
-        font-size: 0.9rem;
+        padding: 0.5rem 0.8rem;
+        font-size: 0.75rem;
+        white-space: nowrap;
+        flex-shrink: 0;
     }
 }

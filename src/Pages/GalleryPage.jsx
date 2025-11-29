@@ -349,6 +349,20 @@ const BIRTHDAY_IMAGES = [
         alt: 'Chandapura',
         title: 'Veedu okkadu... 🙄',
         description: 'Urike ochestadu Chandapura Chandapura antuu 🤦😂'
+    },
+    {
+        id: 'img-50',
+        src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_600/https://ladduu-birthday.vercel.app/images/IMG20241215131957.jpg',
+        alt: 'Jollyyyyyy',
+        title: 'Jollyyyyyy... 🎉',
+        description: 'Chaala happy ga undi ra... Fly fly auvthunna nenuu... 🦋✨😄'
+    },
+    {
+        id: 'img-51',
+        src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_600/https://ladduu-birthday.vercel.app/images/IMG20241215132135.jpg',
+        alt: 'Prasoona swing',
+        title: 'Ehh Prasoona.. 👯',
+        description: 'Ehh ee swing bale undi... ahh chinna pllalu manalne choostunnaru veellaki picha enti ani,,, 🤪😂🎠'
     }
 ];
 

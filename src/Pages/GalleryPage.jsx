@@ -184,7 +184,7 @@ const BIRTHDAY_IMAGES = [
     },
     {
         id: 'img-26',
-        src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_600/https://ladduu-birthday.vercel.app/images/IMG20241215152629.jpg',
+        src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_600/https://ladduu-birthday.vercel.app/images/IMG20241215152629.jpg?v=2',
         alt: 'Venakala pyramid',
         title: 'Venakala full pyramid 🔺',
         description: 'raavali sare naa 😎✨'

@@ -483,6 +483,38 @@ const TIMELINE_DATA = [
             {
                 src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/IMG20250516153751.jpg',
                 description: 'Nuvv Saree loo full cute unde laddumaa... 🥻✨💕'
+            },
+            {
+                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/IMG20250516143756.jpg',
+                description: ''
+            },
+            {
+                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/IMG20250516145124%20(1).jpg',
+                description: ''
+            },
+            {
+                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/IMG_20250704_213957%20(1).jpg',
+                description: ''
+            },
+            {
+                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/WhatsApp%20Image%202025-12-06%20at%2011.46.34%20PM%20(1).jpeg',
+                description: ''
+            },
+            {
+                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/WhatsApp%20Image%202025-12-06%20at%2011.46.34%20PM%20(2).jpeg',
+                description: ''
+            },
+            {
+                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/WhatsApp%20Image%202025-12-06%20at%2011.46.34%20PM.jpeg',
+                description: ''
+            },
+            {
+                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/WhatsApp%20Image%202025-12-06%20at%2011.46.38%20PM.jpeg',
+                description: ''
+            },
+            {
+                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/WhatsApp%20Image%202025-12-06%20at%2011.46.44%20PM.jpeg',
+                description: ''
             }
         ]
     }

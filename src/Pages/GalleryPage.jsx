@@ -2,6 +2,7 @@ import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import SphereGallery from '../components/SphereGallery';
 import MarqueeGallery from '../components/MarqueeGallery';
+import MonkeysTimeline from '../components/MonkeysTimeline';
 import { ArrowLeft } from 'lucide-react';
 import './GalleryPage.css';
 
@@ -399,6 +400,9 @@ const GalleryPage = () => {
 
             {/* Marquee Gallery Section */}
             <MarqueeGallery images={BIRTHDAY_IMAGES} />
+
+            {/* My Monkeys Timeline Section */}
+            <MonkeysTimeline />
         </div>
     );
 };

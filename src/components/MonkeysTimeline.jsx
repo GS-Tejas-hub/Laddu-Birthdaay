@@ -412,6 +412,22 @@ const TIMELINE_DATA = [
             {
                 src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/IMG20250226115345.jpg',
                 description: ''
+            },
+            {
+                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/WhatsApp%20Image%202025-12-07%20at%2012.17.52%20AM.jpeg',
+                description: ''
+            },
+            {
+                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/WhatsApp%20Image%202025-12-07%20at%2012.17.55%20AM.jpeg',
+                description: ''
+            },
+            {
+                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/WhatsApp%20Image%202025-12-07%20at%2012.17.56%20AM%20(1).jpeg',
+                description: ''
+            },
+            {
+                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/WhatsApp%20Image%202025-12-07%20at%2012.17.56%20AM.jpeg',
+                description: ''
             }
         ]
     },

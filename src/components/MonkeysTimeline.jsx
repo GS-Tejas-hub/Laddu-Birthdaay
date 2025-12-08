@@ -602,6 +602,18 @@ const TIMELINE_DATA = [
                 description: 'Eee photo choodu edaina matrimony lo pette laga undi ani nenu antunde nd u were like telusu nuv adhe antav ani... ani antunnde.. gurthunda man... 😂💍📸'
             }
         ]
+    },
+    {
+        id: 38,
+        date: '1 Aug 2025',
+        time: 'Fri, 01:53 GMT+05:30',
+        images: [
+            {
+                src: '/MyMonkeys/Long layers for the win! ✂️ Perfect for adding volume and a touch of glam.For appointment +91-90.mp4',
+                isVideo: true,
+                description: 'Damn un grrr unke 💇‍♀️✂️✨'
+            }
+        ]
     }
 ];
 

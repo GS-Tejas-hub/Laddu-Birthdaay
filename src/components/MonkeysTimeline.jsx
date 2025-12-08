@@ -206,7 +206,7 @@ const TIMELINE_DATA = [
         time: 'Fri, 15:42 GMT+05:30',
         images: [
             {
-                src: 'https://res.cloudinary.com/dyratzal0/video/upload/f_auto,q_auto/https://ladduu-birthday.vercel.app/MyMonkeys/WhatsApp%20Video%202025-12-06%20at%208.13.41%20PM.mp4',
+                src: '/MyMonkeys/WhatsApp Video 2025-12-06 at 8.13.41 PM.mp4',
                 isVideo: true,
                 description: 'Malli nee birthday ochesindhi choodu mann 🎂🎉'
             },
@@ -493,6 +493,41 @@ const TIMELINE_DATA = [
     },
     {
         id: 34,
+        date: '24 May 2025',
+        time: 'Sat, 20:57 GMT+05:30',
+        images: [
+            {
+                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/IMG20250524142314.jpg',
+                description: 'Aaroju full water mana meedha sprinkle auvthunde laa... Some water falls ki vellam laa adhi idhi... nd I seriously don\'t remember which falls it was... is TK falls? Idk... neeku gurthu unte naaku cheppu man 💦🌊'
+            },
+            {
+                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/IMG-20250524-WA0152.jpg',
+                description: ''
+            },
+            {
+                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/IMG-20250524-WA0156.jpg',
+                description: ''
+            },
+            {
+                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/IMG-20250524-WA0391.jpg',
+                description: ''
+            },
+            {
+                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/IMG-20250524-WA0254.jpg',
+                description: ''
+            },
+            {
+                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/IMG-20250524-WA0498.jpg',
+                description: ''
+            },
+            {
+                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/IMG-20250524-WA0483%20(1).jpg',
+                description: ''
+            }
+        ]
+    },
+    {
+        id: 35,
         date: '16 May 2025',
         time: 'Fri, 15:37 GMT+05:30',
         images: [

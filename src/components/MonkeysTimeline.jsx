@@ -614,6 +614,33 @@ const TIMELINE_DATA = [
                 description: 'Damn un grrr unke 💇‍♀️✂️✨'
             }
         ]
+    },
+    {
+        id: 39,
+        date: '6 Aug 2025',
+        time: 'Wed, 17:50 GMT+05:30',
+        images: [
+            {
+                src: '/MyMonkeys/IMG20250806172020.jpg',
+                description: 'Aaaroju mall unde la... nuv full kopam kopam unde andhar meedha, neeku Prasoona ki godava valla and nee leg ela undi nenu adagale ani.. Cute unde ra nuvvu kopam lo.. 😂😂😂 I really had good time eating pastries with u.... 🧁🍰💕'
+            },
+            {
+                src: '/MyMonkeys/IMG20250806172044.jpg',
+                description: ''
+            },
+            {
+                src: '/MyMonkeys/IMG20250806172100.jpg',
+                description: ''
+            },
+            {
+                src: '/MyMonkeys/IMG20250806172134.jpg',
+                description: ''
+            },
+            {
+                src: '/MyMonkeys/IMG20250806175025.jpg',
+                description: ''
+            }
+        ]
     }
 ];
 

@@ -493,75 +493,6 @@ const TIMELINE_DATA = [
     },
     {
         id: 34,
-        date: '24 May 2025',
-        time: 'Sat, 20:57 GMT+05:30',
-        images: [
-            {
-                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/IMG20250524142314.jpg',
-                description: 'Aaroju full water mana meedha sprinkle auvthunde laa... Some water falls ki vellam laa adhi idhi... nd I seriously don\'t remember which falls it was... is TK falls? Idk... neeku gurthu unte naaku cheppu man 💦🌊'
-            },
-            {
-                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/IMG-20250524-WA0152.jpg',
-                description: ''
-            },
-            {
-                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/IMG-20250524-WA0156.jpg',
-                description: ''
-            },
-            {
-                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/IMG-20250524-WA0391.jpg',
-                description: ''
-            },
-            {
-                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/IMG-20250524-WA0254.jpg',
-                description: ''
-            },
-            {
-                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/IMG-20250524-WA0498.jpg',
-                description: ''
-            },
-            {
-                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/IMG-20250524-WA0483%20(1).jpg',
-                description: ''
-            }
-        ]
-    },
-    {
-        id: 35,
-        date: '1 Jun 2025',
-        time: 'Sun, 17:12 GMT+05:30',
-        images: [
-            {
-                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/1000069642.jpg',
-                description: 'Nuvvu nee thammudu cute unnaru ra... Entha manciga untundo naaku nuv nen addaga kunda ne photos pampisthe... 👦👧💕'
-            },
-            {
-                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/1000069585.jpg',
-                description: ''
-            },
-            {
-                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/1000069507%20(1).jpg',
-                description: ''
-            },
-            {
-                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/1000710355.jpg',
-                description: ''
-            }
-        ]
-    },
-    {
-        id: 36,
-        date: '9 Jun 2025',
-        time: 'Mon, 23:08 GMT+05:30',
-        images: [
-            {
-                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/Screenshot_2025-06-09-23-08-57-24_40deb401b9ffe8e1df2f1cc5ba480b12.jpg',
-                description: 'Eee photo choodu edaina matrimony lo pette laga undi ani nenu antunde nd u were like telusu nuv adhe antav ani... ani antunnde.. gurthunda man... 😂💍📸'
-            }
-        ]
-    },
-    {
-        id: 37,
         date: '16 May 2025',
         time: 'Fri, 15:37 GMT+05:30',
         images: [
@@ -600,6 +531,75 @@ const TIMELINE_DATA = [
             {
                 src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/WhatsApp%20Image%202025-12-06%20at%2011.46.44%20PM.jpeg',
                 description: ''
+            }
+        ]
+    },
+    {
+        id: 35,
+        date: '24 May 2025',
+        time: 'Sat, 20:57 GMT+05:30',
+        images: [
+            {
+                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/IMG20250524142314.jpg',
+                description: 'Aaroju full water mana meedha sprinkle auvthunde laa... Some water falls ki vellam laa adhi idhi... nd I seriously don\'t remember which falls it was... is TK falls? Idk... neeku gurthu unte naaku cheppu man 💦🌊'
+            },
+            {
+                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/IMG-20250524-WA0152.jpg',
+                description: ''
+            },
+            {
+                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/IMG-20250524-WA0156.jpg',
+                description: ''
+            },
+            {
+                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/IMG-20250524-WA0391.jpg',
+                description: ''
+            },
+            {
+                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/IMG-20250524-WA0254.jpg',
+                description: ''
+            },
+            {
+                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/IMG-20250524-WA0498.jpg',
+                description: ''
+            },
+            {
+                src: 'https://res.cloudinary.com/dyratzal0/image/fetch/f_auto,q_auto,w_800/https://ladduu-birthday.vercel.app/MyMonkeys/IMG-20250524-WA0483%20(1).jpg',
+                description: ''
+            }
+        ]
+    },
+    {
+        id: 36,
+        date: '1 Jun 2025',
+        time: 'Sun, 17:12 GMT+05:30',
+        images: [
+            {
+                src: '/MyMonkeys/1000069642.jpg',
+                description: 'Nuvvu nee thammudu cute unnaru ra... Entha manciga untundo naaku nuv nen addaga kunda ne photos pampisthe... 👦👧💕'
+            },
+            {
+                src: '/MyMonkeys/1000069585.jpg',
+                description: ''
+            },
+            {
+                src: '/MyMonkeys/1000069507%20(1).jpg',
+                description: ''
+            },
+            {
+                src: '/MyMonkeys/1000710355.jpg',
+                description: ''
+            }
+        ]
+    },
+    {
+        id: 37,
+        date: '9 Jun 2025',
+        time: 'Mon, 23:08 GMT+05:30',
+        images: [
+            {
+                src: '/MyMonkeys/Screenshot_2025-06-09-23-08-57-24_40deb401b9ffe8e1df2f1cc5ba480b12.jpg',
+                description: 'Eee photo choodu edaina matrimony lo pette laga undi ani nenu antunde nd u were like telusu nuv adhe antav ani... ani antunnde.. gurthunda man... 😂💍📸'
             }
         ]
     }

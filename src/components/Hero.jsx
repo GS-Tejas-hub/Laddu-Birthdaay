@@ -19,7 +19,9 @@ const Hero = () => {
         <div className="hero-content">
           <h1>Level 23 Unlocked </h1>
           <p>Welcome to Level 23🎈❤️, 23 years ago the world got lucky 🌎💫, today, it gets to celebrate that miracle again. Putti manchi pan chesav ra....🌍💛</p>
-          <button>Start Exploring</button>
+          <a href="https://laddu-birthday-surprise1.vercel.app/" target="_blank" rel="noopener noreferrer">
+            <button>Start Exploring</button>
+          </a>
         </div>
       </div>
       <div className="section1">

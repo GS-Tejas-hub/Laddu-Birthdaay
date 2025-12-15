@@ -649,7 +649,7 @@ const TIMELINE_DATA = [
         images: [
             {
                 src: '/MyMonkeys/1000206073.jpg',
-                description: 'Sorry Laddu aaaroju confuse ayyi wrist nd waist, wrist ki thaadu kattukonnava ra ra yellow flower tho ani adigesa... nd intha la connect ainanduku sorry ra... chaala depth lo connect aipoya neeku... godav padi neetho photo pettinchukonna... ig inka naaku nuv em photos pampinchav laa... first time oka manishi ni limitless ga care chesi na kanna ekkuva important ga choosi nakanna ekkuva preminchi dooram cheskovalsi ostundi.... Naaku artham auvthundi... Suffocating ga undi neeku ani... But I\'m pure nd geniune man... Nuvvu ante naaku chaala istam... Oka family member laaga 💛💔😢'
+                description: 'Sorry man chaala ibbandhi pettesa eeroju... Ig this is the last pic you would send me... 😂💛💔😢'
             }
         ]
     }
